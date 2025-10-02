@@ -1,1 +1,3 @@
-This is new
+This is new.
+
+I am adding information from GitHub.com.
